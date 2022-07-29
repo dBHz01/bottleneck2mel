@@ -1,0 +1,9 @@
+*.zip
+*.pt
+*.gz
+train_normalized/
+train_normalized_processed/
+*model/
+*wav
+pred_btnk/
+data_aishell/
